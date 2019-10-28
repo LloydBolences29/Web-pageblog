@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LloydBolences29/Web-pageblog/issues"
   },
-  "homepage": "https://github.com/LloydBolences29/Web-pageblog#readme"
+  "homepage": "https://github.com/LloydBolences29/Web-pageblog#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
